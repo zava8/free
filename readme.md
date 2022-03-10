@@ -14,7 +14,7 @@
 
 --------------------
 
-1. laptop/pc free repo daunload zip. unzip -> save in some folder (unzip kro , kisi folder me sev kro)
+1. laptop/pc daunload, unzip, save in folder
 
 ![](./ztrfor/imz/0.downloadfree.png)
 
