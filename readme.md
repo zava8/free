@@ -2,7 +2,7 @@
 
 --------------------
 
-### videos to dounload install use markor.apk n hindik.apk2
+### videos to dounload install use markor.apk n hindik.apk
 
 1. [video7][vid7]
 2. [video6][vid6]
