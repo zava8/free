@@ -37,10 +37,12 @@
 [vid7]: https://youtu.be/qoBTwix8w8k
 
 ----------
-#india #national vowels aeiou+h
-#hindi n #Scots  2in1 #LanguageLearning #language #langchat #languages #fonts #TypeScript #typography  hin54.ttf   
-@EkTypeFoundry @FontForge
- #HindiNews #multilingual #hindiisnottheonlynationallanguageofindia
 
-
+contact :
+1. zava8 computer services n training institute , 5A p8 , srs royal hills , faridabad
+1. mobile : 7291098286 (vatsapp) , email : zs810@vk.com , ll: IND +91-0129-4105-199
+2. [tvitr etphor](https://twitter.com/etphor)
+3. [instagram.com/zavaskript/](https://instagram.com/zavaskript/)
+4. [fb.com/ztrabc](fb.com/ztrabc)
+5. [fb.com/kvzabc](fb.com/kvzabc)
 
