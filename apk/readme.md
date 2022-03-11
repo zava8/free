@@ -39,7 +39,8 @@
 ------------------------
 
 ### videos to dounload install use markor.apk n hindik.apk
-
+1. [video9][vid9]
+1. [video8][vid8]
 1. [video7][vid7]
 2. [video6][vid6]
 2. [video5][vid5]
@@ -57,5 +58,7 @@
 [vid5]: https://youtu.be/4kExRfkS9cw
 [vid6]: https://youtu.be/Sq-qX8P0QhA
 [vid7]: https://youtu.be/qoBTwix8w8k
+[vid8]: https://youtu.be/4yM6iTyDNZk
+[vid9]: https://youtu.be/BgyJ-XWmyqw
 
 -----------------
