@@ -1,4 +1,4 @@
-# 9 2in1 bhasha(language) fonts 9 indian bhasha  :
+indian languages fonts:
 1. tmil54.ttf
 2. hin54.ttf
 3. mlyalm54.ttf
@@ -9,12 +9,7 @@
 8. telgu54.ttf
 9. bangla54.ttf
 
-
-all fonts are **ascii** font in **0-127(0-7F)**.
-
-**[ZFONt 3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)** free app ==install-font==> mobile.
-
-####steps for font install:
+#### font install steps :
 
 1. font install ke liye [ZFONt 3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2&hl=en_US&gl=US) app google play store se install kre.
 2. HTTP://GITHUB.COM/Zava8 pr zakr **Free (public)** repo link pr klik kre.
