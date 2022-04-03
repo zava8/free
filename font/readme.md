@@ -20,12 +20,10 @@ indian languages fonts:
 7. hin54.ttf  ko **"ZFONt 3"** ke saTh khole.
 
 sare steps ke liye niche vale video ko viyu kre. 
-1. [github.com/zava8/free se hin54.ttf  kre Aur zfont 3 se install  kre][vid1b]
-1. [github.com/zava8/free se hin54.ttf  kre Aur zfont 3 se install  kre][vid1a]
-1. [hin54.ttf  se phone me like][vid2]
-1. [hin54.ttf  se phone me like][vid3]
-1. [hin54.ttf  se phone me like][vid4]
-1. [hin54.ttf  se phone me like][vid5]
+1. [zfont3 app install from playstore](https://www.youtube.com/watch?v=bcMRr-lntxI&list=PLlYCdgTLt8n_IAHUukeGxrD9ebYAmnevQ)
+1. [github.com/zava8/free se hin54.ttf  kre Aur zfont 3 se install  kre](https://www.youtube.com/watch?v=U3n9kE2OqR4)
+1. [github.com/zava8/free se hin54.ttf  kre Aur zfont 3 se install  kre](https://www.youtube.com/watch?v=bcMRr-lntxI)
+1. [hin54.ttf  se phone me like](https://www.youtube.com/watch?v=BgyJ-XWmyqw&list=PLlYCdgTLt8n-CcTg13Ul9VLMY4pQDUJ6m)
 
 
 ```
