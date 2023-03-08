@@ -1,198 +1,7 @@
 @font-face {
-    font-family: 'tmil58';
-    src: url('tmil58.woff2') format('woff2'),
-        url('tmil58.woff') format('woff'),
-        url('tmil58.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'latin54';
-    src: url('latin54.woff2') format('woff2'),
-        url('latin54.woff') format('woff'),
-        url('latin54.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'pnzabi54';
-    src: url('pnzabi54.woff2') format('woff2'),
-        url('pnzabi54.woff') format('woff'),
-        url('pnzabi54.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'mlyalm58';
-    src: url('mlyalm58.woff2') format('woff2'),
-        url('mlyalm58.woff') format('woff'),
-        url('mlyalm58.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'tmil54';
-    src: url('tmil54.woff2') format('woff2'),
-        url('tmil54.woff') format('woff'),
-        url('tmil54.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'telugu58';
-    src: url('telugu58.woff2') format('woff2'),
-        url('telugu58.woff') format('woff'),
-        url('telugu58.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'odia58';
-    src: url('odia58.woff2') format('woff2'),
-        url('odia58.woff') format('woff'),
-        url('odia58.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'odia54binv';
-    src: url('odia54binv.woff2') format('woff2'),
-        url('odia54binv.woff') format('woff'),
-        url('odia54binv.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'telugu54binv';
-    src: url('telugu54binv.woff2') format('woff2'),
-        url('telugu54binv.woff') format('woff'),
-        url('telugu54binv.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'odia54';
-    src: url('odia54.woff2') format('woff2'),
-        url('odia54.woff') format('woff'),
-        url('odia54.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'pnzabi54binv';
-    src: url('pnzabi54binv.woff2') format('woff2'),
-        url('pnzabi54binv.woff') format('woff'),
-        url('pnzabi54binv.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'pnzabi58';
-    src: url('pnzabi58.woff2') format('woff2'),
-        url('pnzabi58.woff') format('woff'),
-        url('pnzabi58.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'tmil54binv';
-    src: url('tmil54binv.woff2') format('woff2'),
-        url('tmil54binv.woff') format('woff'),
-        url('tmil54binv.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'mlyalm54binv';
-    src: url('mlyalm54binv.woff2') format('woff2'),
-        url('mlyalm54binv.woff') format('woff'),
-        url('mlyalm54binv.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'mlyalm54';
-    src: url('mlyalm54.woff2') format('woff2'),
-        url('mlyalm54.woff') format('woff'),
-        url('mlyalm54.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'kannada54';
-    src: url('kannada54.woff2') format('woff2'),
-        url('kannada54.woff') format('woff'),
-        url('kannada54.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'hin58';
-    src: url('hin58.woff2') format('woff2'),
-        url('hin58.woff') format('woff'),
-        url('hin58.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'guz58';
-    src: url('guz58.woff2') format('woff2'),
-        url('guz58.woff') format('woff'),
-        url('guz58.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'bangla54binv';
-    src: url('bangla54binv.woff2') format('woff2'),
-        url('bangla54binv.woff') format('woff'),
-        url('bangla54binv.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'hin54';
-    src: url('hin54.woff2') format('woff2'),
-        url('hin54.woff') format('woff'),
-        url('hin54.ttf') format('truetype');
+    font-family: 'Tmil8';
+    src: url('Tmil8.woff2') format('woff2'),
+        url('Tmil8.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -201,58 +10,16 @@
 @font-face {
     font-family: 'kannada54binv';
     src: url('kannada54binv.woff2') format('woff2'),
-        url('kannada54binv.woff') format('woff'),
-        url('kannada54binv.ttf') format('truetype');
+        url('kannada54binv.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'bangla54';
-    src: url('bangla54.woff2') format('woff2'),
-        url('bangla54.woff') format('woff'),
-        url('bangla54.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'telugu54';
-    src: url('telugu54.woff2') format('woff2'),
-        url('telugu54.woff') format('woff'),
-        url('telugu54.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'kannada58';
-    src: url('kannada58.woff2') format('woff2'),
-        url('kannada58.woff') format('woff'),
-        url('kannada58.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'bangla58';
-    src: url('bangla58.woff2') format('woff2'),
-        url('bangla58.woff') format('woff'),
-        url('bangla58.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'guz54binv';
-    src: url('guz54binv.woff2') format('woff2'),
-        url('guz54binv.woff') format('woff'),
-        url('guz54binv.ttf') format('truetype');
+    font-family: 'pnzabi58';
+    src: url('pnzabi58.woff2') format('woff2'),
+        url('pnzabi58.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -261,8 +28,196 @@
 @font-face {
     font-family: 'hin54binv';
     src: url('hin54binv.woff2') format('woff2'),
-        url('hin54binv.woff') format('woff'),
-        url('hin54binv.ttf') format('truetype');
+        url('hin54binv.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'kannada58';
+    src: url('kannada58.woff2') format('woff2'),
+        url('kannada58.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'pnzabi54binv';
+    src: url('pnzabi54binv.woff2') format('woff2'),
+        url('pnzabi54binv.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bangla54';
+    src: url('bangla54.woff2') format('woff2'),
+        url('bangla54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'kannada54';
+    src: url('kannada54.woff2') format('woff2'),
+        url('kannada54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bangla58';
+    src: url('bangla58.woff2') format('woff2'),
+        url('bangla58.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'hin58';
+    src: url('hin58.woff2') format('woff2'),
+        url('hin58.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'pnzabi54';
+    src: url('pnzabi54.woff2') format('woff2'),
+        url('pnzabi54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'hin54';
+    src: url('hin54.woff2') format('woff2'),
+        url('hin54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'telugu54binv';
+    src: url('telugu54binv.woff2') format('woff2'),
+        url('telugu54binv.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'mlyalm54binv';
+    src: url('mlyalm54binv.woff2') format('woff2'),
+        url('mlyalm54binv.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bangla54binv';
+    src: url('bangla54binv.woff2') format('woff2'),
+        url('bangla54binv.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'tmil58';
+    src: url('tmil58.woff2') format('woff2'),
+        url('tmil58.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'telugu58';
+    src: url('telugu58.woff2') format('woff2'),
+        url('telugu58.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'tmil54binv';
+    src: url('tmil54binv.woff2') format('woff2'),
+        url('tmil54binv.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'tmil54';
+    src: url('tmil54.woff2') format('woff2'),
+        url('tmil54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'telugu54';
+    src: url('telugu54.woff2') format('woff2'),
+        url('telugu54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'mlyalm58';
+    src: url('mlyalm58.woff2') format('woff2'),
+        url('mlyalm58.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'mlyalm54';
+    src: url('mlyalm54.woff2') format('woff2'),
+        url('mlyalm54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'odia54';
+    src: url('odia54.woff2') format('woff2'),
+        url('odia54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'guz54binv';
+    src: url('guz54binv.woff2') format('woff2'),
+        url('guz54binv.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'odia58';
+    src: url('odia58.woff2') format('woff2'),
+        url('odia58.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -271,8 +226,34 @@
 @font-face {
     font-family: 'guz54';
     src: url('guz54.woff2') format('woff2'),
-        url('guz54.woff') format('woff'),
-        url('guz54.ttf') format('truetype');
+        url('guz54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'odia54binv';
+    src: url('odia54binv.woff2') format('woff2'),
+        url('odia54binv.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'latin54';
+    src: url('latin54.woff2') format('woff2'),
+        url('latin54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'guz58';
+    src: url('guz58.woff2') format('woff2'),
+        url('guz58.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
