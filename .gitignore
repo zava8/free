@@ -1,0 +1,11 @@
+del/
+../del/
+*.tar.xz
+*.tar
+*/*.tar.xz
+*/*.tar
+*/*.zip
+*/.zip
+*/fontdrum/
+*/del/
+*/del
